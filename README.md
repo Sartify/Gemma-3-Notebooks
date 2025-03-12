@@ -53,7 +53,7 @@ pip install -U bitsandbytes
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Gemma-3-Notebooks.git
+   git clone https://github.com/Sartify/Gemma-3-Notebooks.git
    cd Gemma-3-Notebooks
    ```
 
