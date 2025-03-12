@@ -29,6 +29,15 @@ This script showcases:
 - Handling images from URLs and integrating them into the model prompt
 - Using the same conversational format but with image content
 
+### [`text_inference_gemma_with_video.ipynb`](scripts/text_inference_gemma_with_video.ipynb)
+
+The repository also includes a script for video understanding that:
+- Extracts frames from video files at regular intervals
+- Processes each frame and feeds them into the Gemma 3 model
+- Analyzes video content by providing timestamps with each frame
+- Generates comprehensive descriptions and summaries of video content
+- Performs counting and event detection in videos
+
 ## Getting Started
 
 ### Prerequisites
